@@ -2,7 +2,7 @@
 title: "Placeholder"
 subtitle: "blurb"
 author: "Rolynda"
-avatar: "img/authors/rolynda.png"
+avatar: "img/authors/rolynda.jpg"
 image: "img/postimg/unsplash-stories.jpg"
 fig-caption: "Photo by S O C I A L . C U T on Unsplash"
 date: 2019-07-20 
