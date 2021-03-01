@@ -13,8 +13,8 @@ tags: [True Story]
 </center>
 
 I woke up that day to my sister’s worried eyebrows, her eyelids closed, pretending to be asleep. 
-I didn’tknow what was happening, but I knew that I had to pretend I was asleep too. 
-Imade really slow movements and searched for her hand or leg, anything under
+I didn’t know what was happening, but I knew that I had to pretend I was asleep too. 
+I made really slow movements and searched for her hand or leg, anything under
 the blanket we shared to let her know I was awake and ready for a command.
 
 It was her forearm I found. 
