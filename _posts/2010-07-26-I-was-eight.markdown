@@ -8,7 +8,7 @@ fig-caption: "<span>Photo by <a href="https://unsplash.com/@qstevenson?utm_sourc
 date: 2010-07-26 
 tags: [True Story]
 ---
-![8 year old Roly](/img/embeddedpics/IMG_20140522_193300.jpg)
+![8 year old Roly](/img/embeddedpics/IMG_20140522_193300.jpg =500x)
 
 I woke up that day to my sister’s worried eyes pretending to be asleep. I didn’t
 know what was happening, but I knew that I had to pretend I was asleep too. I
