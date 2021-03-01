@@ -9,7 +9,7 @@ date: 2010-07-26
 tags: [True Story]
 ---
 
-![8 year old Roly](img/embeddedpics/Ro11bday.jpg)
+![8 year old Roly](/img/embeddedpics/Ro11bday.jpg)
 
 I woke up that day to my sister’s worried eyes pretending to be asleep. I didn’t
 know what was happening, but I knew that I had to pretend I was asleep too. I
