@@ -3,7 +3,7 @@ title: "I was eight"
 subtitle: ""
 author: "Rolynda"
 avatar: "img/authors/rolynda.jpg"
-image: "img/postimg/quin-stevenson-3oyeaivM_fE-unsplash.jpg"
+image: "img/postimg/unsplash-bed.jpg"
 fig-caption: "Photo by Quin Stevenson on Unsplash"
 date: 2010-07-26 
 tags: [True Story]
