@@ -1,13 +1,14 @@
 ---
 title: "I was eight"
-subtitle: "//"
+subtitle: ""
 author: "Rolynda"
 avatar: "img/authors/rolynda.jpg"
 image: "img/postimg/quin-stevenson-3oyeaivM_fE-unsplash.jpg"
-fig-caption: "<span>Photo by <a href="https://unsplash.com/@qstevenson?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Quin Stevenson</a> on <a href="https://unsplash.com/s/photos/blankets?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>"
+fig-caption: "Photo by Quin Stevenson on Unsplash"
 date: 2010-07-26 
 tags: [True Story]
 ---
+
 ![8 year old Roly](/img/embeddedpics/IMG_20140522_193300.jpg =500x)
 
 I woke up that day to my sister’s worried eyes pretending to be asleep. I didn’t
@@ -20,7 +21,7 @@ signal that the best thing to do was stay quiet and asleep.
 
 I didn’t know what was worrying her so much, but I had a strange feeling in my
 stomach. A creeping feeling on the back of my neck. Sickening and
-scary.Someone was in our room, watching us sleep. He was waiting for us to
+scary. Someone was in our room, watching us sleep. He was waiting for us to
 wake up.
 
 I knew who it was instantly. He’d been finding his way into our house all summer.
@@ -58,6 +59,7 @@ and I’d have to talk about something I had failed at. It went on until I was a
 
 Yeah, sure, eventually I told my mother.
 
+
 It was really late on a friday night, I remember because my dad was nowhere to
 be seen. Friday is his drinking night, with my uncle. His father. I told my mom what
 had happened for me to loathe my fathers side of the family. What was haunting
@@ -71,4 +73,6 @@ I got a smile on my face the day that he broke both his knees running away from
 the school security guards. I kept picturing him falling on his face, unable to get
 up. I imagined him lying there, mostly helpless, and I walking up to him and
 kicking him so hard in the middle of his face, hard enough to break something
-else, and then leaving him there, you know, to try and cope.
+else, and then leaving him there, 
+you know, 
+to try and cope.
