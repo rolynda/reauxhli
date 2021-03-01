@@ -62,7 +62,9 @@ I don’t remember much about what happened when I didn’t get away.
 
 For some reason, I didn’t tell anybody about it. Even my sister and I wouldn't talk about it to each other.
 This was the year that I started wearing a sweater religiously everywhere, for fear that the bruises would show
-and I’d have to talk about something I had failed at. It went on until I was around twelve.
+and I’d have to talk about something I had failed at. 
+
+It went on until I was around twelve.
 
 
 Yeah, sure, eventually I told my mother.
