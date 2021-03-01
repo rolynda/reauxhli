@@ -8,7 +8,7 @@ fig-caption: "Photo by Quin Stevenson on Unsplash"
 date: 2010-07-26 
 tags: [True Story]
 ---
-<img src="/img/embeddedpics/Ro11bday.jpg" alt="8 year old Roly" width="200"/>
+<center><img src="/img/embeddedpics/Ro11bday.jpg" alt="8 year old Roly" width="400"/></center>
 
 I woke up that day to my sister’s worried eyes pretending to be asleep. I didn’t
 know what was happening, but I knew that I had to pretend I was asleep too. I
