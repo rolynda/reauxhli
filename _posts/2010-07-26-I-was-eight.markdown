@@ -7,6 +7,7 @@ image: "img/postimg/unsplash-bed.jpg"
 fig-caption: "Photo by Quin Stevenson on Unsplash"
 date: 2010-07-26 
 tags: [True Story]
+draft: true
 ---
 <center>
 <img src="/img/embeddedpics/Ro11bday.jpg" alt="8 year old Roly" width="400"/>
