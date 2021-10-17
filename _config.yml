@@ -1,7 +1,7 @@
 # Site settings
-title: Rolynda
+title: Roly
 description: Short Stories
 keywords: Short stories, writing, memoirs
-author: Rolynda
-baseurl: "/storything" # the subpath of your site, e.g. /blog/
-url: "https://rolynda.com" # the base hostname & protocol for your site
+author: Roly
+baseurl: "/reauxhli" # the subpath of your site, e.g. /blog/
+url: "https://reauxhli.com" # the base hostname & protocol for your site
